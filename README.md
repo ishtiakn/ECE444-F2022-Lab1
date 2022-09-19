@@ -13,3 +13,10 @@
   alt="Activity 2 Screenshot"
   title="Activity 2 Screenshot"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  ## Activity 3 Screenshot
+<img
+  src="screenshots\a3.png"
+  alt="Activity 3 Screenshot"
+  title="Activity 3 Screenshot"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
