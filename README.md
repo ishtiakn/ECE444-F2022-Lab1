@@ -6,3 +6,10 @@
   alt="Activity 1 Screenshot"
   title="Activity 1 Screenshot"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+## Activity 2 Screenshot
+<img
+  src="screenshots\a2.png"
+  alt="Activity 2 Screenshot"
+  title="Activity 2 Screenshot"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
