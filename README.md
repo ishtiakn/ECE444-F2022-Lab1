@@ -29,3 +29,9 @@ Screenshot of MY commit to TEAMMATE'S repo:<br />
 <img
   src="screenshots\a4-2.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+## Activity 5
+Screenshot of rebase command plus output:<br />
+<img
+  src="screenshots\a5.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
