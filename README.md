@@ -38,3 +38,13 @@ Screenshot of rebase command plus output:<br />
 
   ## Activity 6
   Link to my EP repo:  https://github.com/ishtiakn/ECE444-F2022-EP
+
+  ## Activity 7
+Screenshot of rebase command plus output:<br />
+<img
+  src="screenshots\a7-1.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<br />Screenshot of updated homepage with my  name:<br />
+<img
+  src="screenshots\a7-2.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
