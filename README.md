@@ -36,10 +36,10 @@ Screenshot of rebase command plus output:<br />
   src="screenshots\a5.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-  ## Activity 6
+## Activity 6
   Link to my EP repo:  https://github.com/ishtiakn/ECE444-F2022-EP
 
-  ## Activity 7
+## Activity 7
 Screenshot of rebase command plus output:<br />
 <img
   src="screenshots\a7-1.png"
@@ -47,4 +47,14 @@ Screenshot of rebase command plus output:<br />
 <br />Screenshot of updated homepage with my  name:<br />
 <img
   src="screenshots\a7-2.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+## Activity 8
+Screenshot of rebase command plus output:<br />
+<img
+  src="screenshots\a8-1.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<br />Screenshot of new ECE444-Lab1 tab's page with my  name:<br />
+<img
+  src="screenshots\a8-2.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
